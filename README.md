@@ -91,10 +91,7 @@ A curated collection of awesome web typography articles.
 - [Web Fonts are Rocket Science](https://www.filamentgroup.com/lab/rocket-science.html)
 - [Video Screencast - Font Loading with Zach Leatherman](https://css-tricks.com/video-screencasts/152-font-loading-zach-leatherman/)
 
-## Featured
-- This [site](https://deanhume.github.io/typography/) was featured on the [Device Wall](https://twitter.com/gauntface/status/604029887414829057/photo/1) at Google I/O 2015.
 
-![Google I/O Device Wall](https://raw.githubusercontent.com/deanhume/typography/master/images/device-wall-small.jpg)
 
 ## License
 
